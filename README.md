@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @QuanThiccTech
-- 👀 I’m interested in my gf
-- 🌱 I’m currently learning how to understand my gf 
-
-<!---
-QuanThiccTech/QuanThiccTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Welcome to my profile 👋
+I'm QuanThiccT(S)ech
+***
+### GitHub Stats 🌠
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=QuanThiccTech&theme=tokyonight&hide_border=true)](https://globalmc.com.vn)
+***
